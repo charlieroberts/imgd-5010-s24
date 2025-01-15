@@ -46,7 +46,7 @@ If that time doesn't work for you, please reach out to me via direct message in 
 
 Week 1: What is data? What is programming?
 - Concepts: Color as data, understanding binary numbers
-- Concepts: Turing completeness (is your language for *real* computer scientists?)
+- Concepts: Turing completeness
 - Concepts: Declarative vs Imperative languages
 - Concepts: What is documentation? What is an API?
 - Aesthetics: What is creative coding?
