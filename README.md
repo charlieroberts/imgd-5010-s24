@@ -1,8 +1,8 @@
 # IMGD 5010 Fundamentals: Creative Coding
 
 - Instructor: [Charlie Roberts](https://charlie-roberts.com)
-- Meetings: Online, synchronous, M-Th 5-6:20 PM PST
-- Office Hours: Tuesday 3-5 PM PST or by appointment 
+- Meetings: Online, synchronous, M-Th 5-6:20 PM EST
+- Office Hours: Tuesday 3-5 PM EST or by appointment 
 
 Important note: this syllabus is subject to change, however, I will not change anything that could affect grades.
 
