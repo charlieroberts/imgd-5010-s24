@@ -1,6 +1,5 @@
 - [Ralph Sutter](https://editor.p5js.org/rsutter/full/MBbOyiGgQ)
-- [Xin Zhang](https://editor.p5js.org/zx1998120/sketches/4Yg7l0jIY))
-- [Ralph Sutter](https://editor.p5js.org/rsutter/full/MBbOyiGgQ)
+- [Xin Zhang](https://editor.p5js.org/zx1998120/sketches/4Yg7l0jIY)
 - [Jessilyn Collette - A3](https://github.com/JessilynCollette/IMGD5010_Universe)
 - [Hunter Simone](https://editor.p5js.org/Hazix/sketches/WkLi1SwEH)
 - [Thomas Jolicoeur](https://editor.p5js.org/Amaterasu903/sketches/EgUj-jQMO)
