@@ -1,2 +1,3 @@
 - [Charlie Roberts](https://github.com/charlieroberts)
 - [Charlie Roberts - A3](https://github.com/charlieroberts/screamer)
+- [Thomas Jolicoeur](https://editor.p5js.org/Amaterasu903/sketches/EgUj-jQMO)
