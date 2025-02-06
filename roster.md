@@ -1,5 +1,7 @@
-- [Charlie Roberts](https://github.com/charlieroberts)
-- [Charlie Roberts - A3](https://github.com/charlieroberts/screamer)
 - [Ralph Sutter](https://editor.p5js.org/rsutter/full/MBbOyiGgQ)
 - [Jessilyn Collette - A3](https://github.com/JessilynCollette/IMGD5010_Universe)
-
+- [Hunter Simone](https://editor.p5js.org/Hazix/sketches/WkLi1SwEH)
+- [Thomas Jolicoeur](https://editor.p5js.org/Amaterasu903/sketches/EgUj-jQMO)
+- [Ralph Sutter](https://editor.p5js.org/rsutter/full/MBbOyiGgQ)  
+- [Raeda Baird - A3](https://editor.p5js.org/cherryreaper/sketches/n6rLP-xm2)  
+- [Mary Braen - A3](https://github.com/mebraen/IMGD5010-Assignment3-Time/tree/main)
