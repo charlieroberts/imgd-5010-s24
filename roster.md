@@ -7,3 +7,4 @@
 - [Kat Crighton](http://github.com/hinaccurate)
 - [Raeda Baird - A3](https://editor.p5js.org/cherryreaper/sketches/n6rLP-xm2)  
 - [Mary Braen - A3](https://editor.p5js.org/mebraen/full/Se_PR0irk)
+- [Kathleen Morrissey] (https://github.com/Kmorrissey1/Concentric-Harmony)
