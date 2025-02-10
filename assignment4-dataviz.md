@@ -8,7 +8,7 @@ This assignment will explore data visualization as a creative medium. The goals 
 4. Think about data as an abstraction for creative inspiration
 
 Find external data to load in to p5.js. This could be a local file that you upload to the p5.js editor, or you
-could [find an API to load data from](https://github.com/burningtree/awesome-json). Below is some starter code to
+could [find an API to load data from](https://github.com/jdorfman/awesome-json-datasets). Below is some starter code to
 experiment with:
 
 ```js
