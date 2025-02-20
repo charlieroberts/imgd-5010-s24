@@ -17,7 +17,7 @@ That is, you should try to create a coherent piece, not just something that's en
 
 Create a repo containing your p5 code. In a README file for the repo, briefly state what you were trying to
 accomplish and how you think you did / didn't succeed. Include a link to a version of your project running
-in editor.p5js.org.
+in editor.p5js.org. Submit a link to your repo in the Canvas assignment.
 
 Starter code:  
 ```js
