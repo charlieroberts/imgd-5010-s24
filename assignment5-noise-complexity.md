@@ -18,3 +18,33 @@ That is, you should try to create a coherent piece, not just something that's en
 Create a repo containing your p5 code. In a README file for the repo, briefly state what you were trying to
 accomplish and how you think you did / didn't succeed. Include a link to a version of your project running
 in editor.p5js.org.
+
+Starter code:  
+```js
+let agents = []
+let count  = 100 
+
+function setup() {
+  createCanvas(400, 400)
+  
+  for( let i = 0; i < count; i++ ) {
+    let agent = {
+      x: random() * width,
+      y: random() * height,
+      
+      draw() {
+        point( agent.x, agent.y )
+      }
+    }
+    agents.push( agent )
+  }
+  
+  strokeWeight( 5 )
+  stroke( 'white' )
+}
+
+function draw() {
+  background( 0 )
+  agents.forEach( a => a.draw() )
+}
+```
