@@ -23,3 +23,5 @@ for extra insights.
 
 IMPORTANT NOTE: there are *lots* of examples of the game of life in p5 floating around. Don't just copy one of these. Take the
 time to read the chapter / watch the video / implement it yourself. It's very rewarding when it all finally works, I promise.
+
+For lots more info on the Game of Life, see [this essay by Alan Zucconi](https://www.alanzucconi.com/2020/10/13/conways-game-of-life/).
