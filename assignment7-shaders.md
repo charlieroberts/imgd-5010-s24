@@ -31,7 +31,7 @@ To be clear, after this your primary README for the assigngment should look some
 
 ## Shaders + p5
 
-- Take one of your previous assignments and apply post-processing effects in p5. You can use [this example] a starting point. What type of post-processing will
+- Take one of your previous assignments and apply post-processing effects in p5. You can use [this example](https://editor.p5js.org/charlieroberts/sketches/8hdgmiDaz) a starting point. What type of post-processing will
 add visual interest to your p5 sketch?
 
 - Write two paragraphs (150–200 words) that describe your aesthetic intent and what you were interested in exploring technically. What does your shader add? What does it take away from the p5 sketch?
