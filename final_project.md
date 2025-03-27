@@ -21,7 +21,7 @@ by it.
 These are just examples, I am very open to other ideas!
 
 ## Timeline
-- Monday March 31st : Proposal : DM me a short description (~500 words) of what you plan to do, what challenges you forsee, and
+- Tuesday April 1st : Proposal : DM me a short description (~500 words) of what you plan to do, what challenges you forsee, and
 any questions you might have.
 - Monday April 7th : Lighting talks : briefly (less than three minutes) present your idea to the class for feedback
 - Monday April 14th : Check-in : DM me with a brief description of progress (~250 words) and a link to your work so far.
